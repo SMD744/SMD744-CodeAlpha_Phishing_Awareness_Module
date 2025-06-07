@@ -1,22 +1,27 @@
 # SMD744-CodeAlpha_Phishing_Awareness_Module
 Educational materials for recognizing and avoiding phishing attacks
-# Phishing Awareness Training
+# Phishing Awareness Training Module
 
-This repository contains educational materials for phishing awareness training, developed as part of the CodeAlpha internship program.
+![Phishing Awareness Banner](Assets/banner.png)
+
+Educational materials for recognizing and avoiding phishing attacks, created for CodeAlpha internship.
 
 ## Contents
+- `Presentation/`: Slide decks
+- `Resources/`: Cheat sheets, email templates, quiz questions
 
-- `presentation/`: Slides for the training.
-
-- `resources/`: Supplementary materials including a phishing red flags cheat sheet and example phishing emails.
+## Key Topics Covered
+1. Identifying phishing email red flags
+2. Fake website detection techniques
+3. Social engineering tactics
+4. Real-world case studies
+5. Interactive quiz scenarios
 
 ## Usage
+1. Download the presentation files
+2. Use the visual assets during training sessions
+3. Distribute cheat sheets to participants
+4. Run the interactive quiz using provided questions
 
-These materials are designed for cybersecurity awareness trainers.
 
-### For Presenters:
-
-1. Download the PowerPoint file in the `presentation` folder.
-
-2. Use the notes within the presentation for speaking points.
-
+> Created by [Oyewole Samad Oluwasanjo] for CodeAlpha Cybersecurity Internship
