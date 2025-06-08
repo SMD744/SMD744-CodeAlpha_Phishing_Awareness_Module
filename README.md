@@ -7,7 +7,7 @@ Educational materials for recognizing and avoiding phishing attacks
 Educational materials for recognizing and avoiding phishing attacks, created for CodeAlpha internship.
 
 ## Contents
-- `Presentation/`: Slide decks
+- `Presentation/`: Slide decks (PPTX and PDF versions)
 - `Resources/`: Cheat sheets, email templates, quiz questions
 
 ## Key Topics Covered
